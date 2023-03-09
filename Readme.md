@@ -10,7 +10,7 @@
 
 
 ##### Step 2:
-- Calculator Project follow alon, URL : https://www.youtube.com/watch?v=STJfIu8T3kM&t=183s 
+- Calculator Project follow along, URL : https://www.youtube.com/watch?v=STJfIu8T3kM&t=183s 
 
 
 ### Screenshots of the calculator working in chrome and firefox
