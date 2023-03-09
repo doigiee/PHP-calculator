@@ -1,18 +1,20 @@
 
-#PHP first project#
+#PHP first project
 
-##testing to see calculator works##
+##Calculator
 
-###Will need to follow this tutorial to get it working:### 
+####Steps needing to be taken to get this calculator working on your system. 
 
--Installation of how to get it PHP working: https://www.youtube.com/watch?v=gaMO28wil34
+#####Step 1:
+-Installation of PHP and how to get it running, URL: https://www.youtube.com/watch?v=gaMO28wil34
 
--Project calculator follow along URL : https://www.youtube.com/watch?v=STJfIu8T3kM&t=183s 
 
 
-###Screenshots###
+#####Step 2:
+-Calculator Project follow alon, URL : https://www.youtube.com/watch?v=STJfIu8T3kM&t=183s 
+
+
+###Screenshots of the calculator working in chrome and firefox
 
 ![test in chrome](screenshots/PHPtest.png)
-
-
-![other test in chrome](screenshots/PHP calculator.png)
+![Another test in chrome](screenshots/PHP%20calculator.png))
